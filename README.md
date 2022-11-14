@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Facts about me
+- 🔭 Hoje trabalho com Front-end
 
 <div align="center">
   <a href="https://github.com/guizen-dev">
