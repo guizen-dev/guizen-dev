@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## Feel at home!!
+### Feel free to steal everything you wish
 - Back-End developer (I guess...)
 - Studying in System Developing (3/3)
 - Willing to enter a Software Engineer University (FIAP)
