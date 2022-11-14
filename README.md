@@ -2,7 +2,7 @@
 <h3 align="center">Back-End developer (I guess...)</h3>
 
 - 🌱 I’m currently learning **React.js, Django, Node.js**
-- Studying in System Developing (3/3)
+- Studying System Developing (3/3)
 - Willing to enter a Software Engineer University (FIAP)
 - Mastering python habilities
 
