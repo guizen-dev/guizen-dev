@@ -2,6 +2,7 @@
 
 ## Facts about me
 - Back-End developer (I guess...)
+- Studying in System Developing (3/3)
 - Willing to enter a Software Engineer University (FIAP)
 - Mastering python habilities
 
