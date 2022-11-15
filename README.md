@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Campos</h1>
-<h3 align="center">Back-End developer (I guess...)</h3>
+<h3 align="center">Backend developer (I guess...)</h3>
 
 - 🌱 I’m currently learning **React.js, Django, Node.js**
 - Studying System Developing (3/3)
