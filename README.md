@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **React.js, Django, Node.js**
 - Studying System Development (3/3)
-- Willing to enter a Software Engineer University (FIAP)
+- Willing to enter a Software Engineer University
 - Mastering python habilities
+- Studying Data Science
 
 - 📫 How to reach me **guilherme.campos3931@gmail.com**
 
