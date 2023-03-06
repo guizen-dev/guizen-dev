@@ -5,7 +5,7 @@
 - Studying System Development (3/3)
 - Willing to enter a Software Engineer University
 - Mastering python habilities
-- Studying Data Science (https://public.tableau.com/app/profile/guilherme7437)
+- Studying Data Science (**https://public.tableau.com/app/profile/guilherme7437**)
 
 - 📫 How to reach me **guilherme.campos3931@gmail.com**
 
