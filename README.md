@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizen-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- ### ✍️ Random Dev Quote
+ ### ✍️ Some quotes of the day
   <div align="center">
     <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </div>
