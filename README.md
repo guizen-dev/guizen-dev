@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning **React.js, Django, Node.js**
 - Studying System Development (3/3)
+- Studying Computer Science (UFABC)
 - Willing to enter a Software Engineer University
 - Mastering python habilities
 - Studying Data Science (**https://public.tableau.com/app/profile/guilherme7437**)
