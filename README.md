@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guilherme Campos</h1>
 
 - 🌱 I’m currently learning **React.js, Django, Node.js**
-- Studying System Development (3/3)
+- Studying System Development
 - Studying Computer Science (UFABC)
 - Mastering Django habilities
-- Studying Data Science (**https://public.tableau.com/app/profile/guilherme7437**)
+- Studying Data Science **https://public.tableau.com/app/profile/guilherme7437**
 
 - 📫 How to reach me **guilherme.campos3931@gmail.com**
 
