@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Campos</h1>
 
-- 🌱 I’m currently learning **React.js, Django, Node.js**
+- I’m currently learning **React.js, Django, Node.js**
+- Currently working in [LovePage]('https://github.com/luluoliv/lovepage')
 - Studying System Development
 - Studying Computer Science (UFABC)
 - Mastering Django habilities
