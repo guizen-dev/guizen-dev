@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme Campos</h1>
 
+- Fullstack developer
 - I’m currently learning **React.js, Django, Node.js**
 - Currently working in [LovePage](https://github.com/luluoliv/lovepage) project
-- Studying System Development
 - Studying Computer Science (UFABC)
-- Mastering Django habilities
 - Studying Data Science **https://public.tableau.com/app/profile/guilherme7437**
 
 - 📫 How to reach me **guilherme.campos3931@gmail.com**
