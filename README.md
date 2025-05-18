@@ -2,7 +2,6 @@
 
 - Fullstack developer
 - I’m currently learning **React.js, Django, Node.js**
-- Currently working in [LovePage](https://github.com/luluoliv/lovepage) project
 - Studying Computer Science (UFABC)
 - Studying Data Science **https://public.tableau.com/app/profile/guilherme7437**
 
